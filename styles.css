@@ -1,0 +1,549 @@
+* {
+  box-sizing: border-box;
+}
+.allMain {
+  display: inline;
+  max-width: 1440px;
+  flex-wrap: wrap;
+}
+.container1 {
+  display: flex;
+  width: 100%;
+  height: 116px;
+  flex-wrap: wrap;
+}
+.logo {
+  width: 41px;
+  height: 39px;
+  margin-left: 80px;
+  margin-top: 39px;
+}
+.Home {
+  width: 49px;
+  height: 21.27px;
+  margin-left: 433px;
+
+  margin-top: 47.37px;
+}
+.AboutUS {
+  width: 68px;
+  height: 21.27px;
+
+  margin-left: 31px;
+  margin-top: 47.37px;
+  white-space: nowrap;
+}
+.Services {
+  width: 68px;
+  height: 21.27px;
+
+  margin-left: 31px;
+  margin-top: 47.37px;
+}
+
+.Blogs {
+  width: 46px;
+  height: 21.27px;
+
+  margin-left: 31px;
+  margin-top: 47.37px;
+  margin-bottom: 47.37px;
+}
+.boxForGift1 {
+  max-width: 200px;
+  height: 43.5px;
+  border: 1px solid gold;
+  border-radius: 5px;
+  margin-left: 270px;
+  margin-right: 34px;
+
+  margin-top: 38.37px;
+  margin-bottom: 47.37px;
+}
+.GiftFinder {
+  text-align: center;
+  padding-top: 10px;
+  white-space: nowrap;
+  color: gold;
+}
+.container2 {
+  display: flex;
+  width: 100%;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+}
+.picture1 {
+  max-width: 400px;
+  height: 600px;
+  flex-wrap: wrap;
+}
+.picture2 {
+  max-width: 713px;
+  height: 618.6px;
+  margin-top: 0px;
+  flex-wrap: wrap;
+}
+.containerLeft {
+  display: flex;
+  flex-direction: column;
+  max-width: 721px;
+  height: 600px;
+}
+.GiftForWife {
+  max-width: 433px;
+  height: 206px;
+  margin-top: 154px;
+  margin-left: 162px;
+  margin-right: 126px;
+
+  font-size: 56px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.struglling {
+  max-width: 422px;
+  height: 57px;
+  margin-top: 36px;
+  margin-left: 162px;
+
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.findGiftNow {
+  width: 200px;
+  height: 60px;
+  margin-top: 52px;
+  margin-left: 162px;
+
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: darkgoldenrod;
+  text-align: center;
+  padding-top: 14px;
+  border: 2px solid gold;
+  color: white;
+}
+
+.container3 {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.containerIn3 {
+  display: inline;
+  flex-wrap: wrap;
+}
+.HowWeWork {
+  width: 194px;
+  height: 45px;
+  margin-top: 164px;
+  margin-left: 102.34px;
+  font-size: 32px;
+}
+.Weacctualy {
+  width: 441px;
+  height: 169px;
+  margin-top: 23px;
+  margin-left: 102.34px;
+  font-size: 20px;
+  text-align: justify;
+}
+.LearnMore {
+  width: 200px;
+  height: 60px;
+  margin-top: 35px;
+  margin-left: 102.34px;
+  font-size: 20px;
+  border: 2px solid gold;
+  color: gold;
+  text-align: center;
+  padding-top: 16px;
+}
+.GiftsFor {
+  max-width: 422px;
+  height: 39px;
+  margin-top: 95px;
+  margin-left: 509px;
+  font-size: 32px;
+  text-align: center;
+  color: #000000;
+  flex-wrap: wrap;
+}
+.Try {
+  max-width: 454px;
+  height: 25px;
+  margin-top: 23px;
+  margin-left: 493px;
+  font-size: 18px;
+  text-align: center;
+  color: #000000;
+  flex-wrap: wrap;
+}
+.container4 {
+  display: flex;
+  width: 100%;
+
+  margin-top: 64px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.birhday {
+  width: 270px;
+  height: 270px;
+  box-shadow: -10px 1px 20px gray;
+  margin-right: 30px;
+  flex-wrap: wrap;
+}
+.Anniversary {
+  width: 270px;
+  height: 270px;
+  margin-right: 30px;
+  flex-wrap: wrap;
+}
+.Valentine {
+  width: 270px;
+  height: 270px;
+  margin-right: 30px;
+  flex-wrap: wrap;
+}
+.Christmas {
+  width: 270px;
+  height: 270px;
+  margin-right: 30px;
+  flex-wrap: wrap;
+}
+.container5 {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-bottom: 137px;
+  flex-wrap: wrap;
+}
+.Downbirhday {
+  width: 270px;
+  height: 166px;
+  margin-right: 30px;
+  box-shadow: -10px 1px 20px gray;
+  flex-wrap: wrap;
+}
+.DownAnniversary {
+  width: 270px;
+  height: 166px;
+  margin-right: 30px;
+  flex-wrap: wrap;
+}
+.DownValentine {
+  width: 270px;
+  height: 166px;
+  margin-right: 30px;
+  flex-wrap: wrap;
+}
+.DownChristmas {
+  width: 270px;
+  height: 166px;
+  margin-right: 30px;
+  flex-wrap: wrap;
+}
+
+.container6 {
+  display: flex;
+  width: 100%;
+  background-color: chocolate;
+}
+.containerIn6 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.Ready {
+  width: 325px;
+  height: 45px;
+  margin-left: 235px;
+  margin-top: 81px;
+  font-size: 35px;
+}
+.SignUp {
+  width: 312px;
+  height: 45px;
+  margin-left: 235px;
+  margin-bottom: 69px;
+  font-size: 32px;
+}
+.container2in6 {
+  display: flex;
+}
+.findGift {
+  width: 200px;
+  height: 50px;
+  margin-left: 229px;
+  margin-top: 96px;
+  margin-bottom: 94;
+  font-size: 18px;
+  background-color: #000000;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  padding-top: 18px;
+  text-align: center;
+}
+.HowItWorks {
+  width: 200px;
+  height: 50px;
+  margin-left: 16px;
+  margin-right: 235px;
+  margin-top: 96px;
+  margin-bottom: 94;
+  border: 2px solid black;
+  padding-top: 17px;
+  text-align: center;
+}
+.container7 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.lastContainer1 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 1026px;
+}
+.containerinLast {
+  width: 100%;
+  height: 246px;
+
+  display: flex;
+  flex-direction: column;
+}
+.BestBlock {
+  text-align: center;
+  margin-top: 88px;
+  font-size: 32px;
+}
+.TryBlock {
+  margin-top: 23px;
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 71px;
+}
+.lastContainer2 {
+  display: flex;
+}
+.picture {
+  width: 400px;
+  height: 370px;
+  margin-left: 135px;
+}
+.JohnBestRead {
+  flex-direction: column;
+  box-sizing: border-box;
+  width: 770px;
+  height: 370px;
+  background-color: #000000;
+  margin-right: 135px;
+}
+.MrJohn {
+  margin-top: 63px;
+  margin-left: 78px;
+  font-size: 18px;
+  border: 2px solid #000000;
+  color: white;
+}
+.TheBest {
+  margin-top: 27px;
+  margin-left: 78px;
+
+  font-size: 48px;
+  width: 492px;
+  height: 125px;
+  border: 2px solid black;
+  color: white;
+}
+.ReadMore {
+  width: 90px;
+  height: 26px;
+  margin-top: 60px;
+  margin-left: 78px;
+  margin-bottom: 49px;
+
+  font-size: 18px;
+  border: 2px solid black;
+  color: white;
+}
+.Under {
+  display: flex;
+  width: 100%;
+  margin-top: 40px;
+}
+.underlastcontainer {
+  width: 570px;
+  height: 290px;
+  box-shadow: 6px 8px 20px;
+  margin-left: 135px;
+  margin-right: 5px;
+}
+.underlastcontainer2 {
+  width: 570px;
+  height: 290px;
+
+  margin-right: 135px;
+  margin-left: 5px;
+}
+
+.Database {
+  width: 400px;
+  height: 68px;
+  margin-top: 48px;
+  margin-left: 48px;
+  margin-right: 48px;
+  font-size: 24px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.LoremIpsum {
+  width: 420px;
+  height: 72px;
+  margin-top: 16px;
+  margin-left: 48px;
+  margin-right: 48px;
+  font-size: 18px;
+}
+.ReadMoreLas {
+  width: 70px;
+  height: 20px;
+  margin-top: 16px;
+  margin-left: 48px;
+  font-size: 14px;
+}
+.Artificial {
+  width: 474px;
+  height: 68px;
+  margin-top: 48px;
+  margin-left: 48px;
+  margin-right: 48px;
+  font-size: 24px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.LoremIpsum2 {
+  width: 420px;
+  height: 72px;
+  margin-top: 16px;
+  margin-left: 48px;
+  margin-right: 48px;
+  font-size: 18px;
+}
+.ReadMoreLas2 {
+  width: 70px;
+  height: 20px;
+  margin-top: 16px;
+  margin-left: 48px;
+  font-size: 14px;
+}
+.finishContainer {
+  width: 100%;
+  height: 410px;
+  flex-direction: column;
+  margin-top: 80px;
+}
+.Container_Home_Logo {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Home1 {
+  width: 38px;
+  height: 20px;
+  margin-top: 115px;
+  margin-left: 416px;
+  font-size: 14px;
+}
+.About1 {
+  width: 40px;
+  height: 20px;
+  margin-top: 115px;
+  margin-left: 81px;
+  font-size: 14px;
+}
+.Logo1 {
+  width: 41px;
+  height: 39px;
+  margin-top: 106px;
+  margin-left: 141px;
+  font-size: 14px;
+}
+.Services1 {
+  width: 48px;
+  height: 20px;
+  margin-top: 115px;
+  margin-left: 141px;
+  font-size: 14px;
+}
+.Blog1 {
+  width: 30px;
+  height: 20px;
+  margin-top: 115px;
+  margin-left: 54px;
+  font-size: 14px;
+  margin-bottom: 53px;
+}
+hr {
+  margin-left: 220px;
+}
+
+.band {
+  width: 1000px;
+  height: 20px;
+  margin-top: 43px;
+  margin-left: 220px;
+  background-color: blueviolet;
+}
+.SocialAppsCont {
+  display: flex;
+  margin-top: 55.8px;
+  flex-wrap: wrap;
+}
+.Facebook {
+  width: 38.4px;
+  height: 38.4px;
+  margin-left: 572.8px;
+}
+.Twitter {
+  width: 38.4px;
+  height: 38.4px;
+  margin-left: 25.6px;
+}
+.instagram {
+  width: 38.4px;
+  height: 38.4px;
+  margin-left: 25.6px;
+}
+.youtube {
+  width: 38.4px;
+  height: 38.4px;
+  margin-left: 25.6px;
+}
+.Papp {
+  width: 38.4px;
+  height: 38.4px;
+  margin-left: 25.6px;
+}
+.basementCont {
+  display: flex;
+  margin-top: 72.8px;
+  flex-wrap: wrap;
+}
+.years {
+  width: 94px;
+  height: 20px;
+  margin-top: 72.8;
+  margin-left: 618px;
+}
+.Privacy {
+  width: 101px;
+  height: 20px;
+  margin-top: 72.8;
+  margin-left: 14px;
+}
+@media only screen and (max-width: 390px) {
+  .container1 {
+    background-color: red;
+  }
+}
